@@ -2,7 +2,7 @@
 XKB Keyboard layout I personally use. Variation of US QWERTY layout with french diacritics available through AltGr
 
 ## Installation
-The `usfr` file belongs in /usr/share/X11/xkb/symbols/
+The `usfr` file belongs in `/usr/share/X11/xkb/symbols/`
 
 ## Usage
 Use the command
