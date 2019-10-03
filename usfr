@@ -9,7 +9,7 @@ xkb_symbols "usfr" {
     key <AD02> { [ w,      W,       ecircumflex,    Ecircumflex ] };
     key <AD04> { [ r,      R,       ediaeresis,     Ediaeresis ] };
     key <AD06> { [ y,      Y,       ydiaeresis,     Ydiaeresis ] };
-    key <AD07> { [ u,      U,       uacute,         Uacute ] };
+    key <AD07> { [ u,      U,       ugrave,         Ugrave ] };
     key <AC06> { [ h,      H,       udiaeresis,     Udiaeresis ] };
     key <AC07> { [ j,      J,       ucircumflex,    Ucircumflex ] };
     key <AD08> { [ i,      I,       icircumflex,    Icircumflex ] };
